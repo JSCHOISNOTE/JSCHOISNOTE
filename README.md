@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHOI%20JEONG%20SEOK&fontSize=70"animation=waving />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHOI%20JEONG%20SEOK&fontSize=70"&animation=waving />
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
