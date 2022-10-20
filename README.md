@@ -19,10 +19,10 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStrudioCode&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 
