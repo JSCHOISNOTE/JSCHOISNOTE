@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHOI%20JEONGSEOK&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHOI%20JEONG%20SEOK&fontSize=70"animation=waving />
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -22,7 +22,6 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  
-  <a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+<a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
   
 </p>
