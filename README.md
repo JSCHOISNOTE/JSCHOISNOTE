@@ -31,6 +31,6 @@
 <a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
   
 </p>
-<br><br>
 
-<a href="https://github.com/{username}/{username}">  <img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="{username}'s GitHub Stats" />
+
+
