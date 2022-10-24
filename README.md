@@ -2,7 +2,7 @@
 
 ![JeongSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSCHOISNOTE&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSCHOISNOTE&layout=compact)](https://github.com/JSCHOISNOTE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSCHOISNOTE&layout=compact)](https://github.com/JSCHOISNOTE)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
