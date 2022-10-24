@@ -2,7 +2,6 @@
 
 ![JeongSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSCHOISNOTE&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSCHOISNOTE&layout=compact)](https://github.com/JSCHOISNOTE)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -33,7 +32,6 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
 <a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
-<a gref="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zjqjrwo@naver.com")](mailto:zjqjrwo@naver.com)
   
 </p>
 
