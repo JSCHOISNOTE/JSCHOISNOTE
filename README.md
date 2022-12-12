@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=CHOI%20JEONG%20SEOK&fontSize=70&animation=twinkling)
 
 <img src="https://github-readme-stats.vercel.app/api?username=JSCHOISNOTE&show_icons=true&theme=dracula"/></p>
+<h3 align="right">🌈 Follow Me 🌈</h3>
+<p align="right">
+<a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSCHOISNOTE&layout=compact" /></p>
 
@@ -32,9 +35,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-<a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
+
   
 </p>
 
