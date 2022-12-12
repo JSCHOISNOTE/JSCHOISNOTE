@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
+<a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a></b>
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=CHOI%20JEONG%20SEOK&fontSize=70&animation=twinkling)
 
 <img src="https://github-readme-stats.vercel.app/api?username=JSCHOISNOTE&show_icons=true&theme=dracula"/></p>
