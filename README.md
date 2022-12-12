@@ -2,8 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=JSCHOISNOTE&show_icons=true&theme=dracula"/></p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSCHOISNOTE&layout=compact)](https://github.com/JSCHOISNOTE/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSCHOISNOTE&layout=compact" /></p>
+[![Top Langs]()](https://github.com/JSCHOISNOTE/github-readme-stats)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
