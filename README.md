@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=CHOI%20JEONG%20SEOK&fontSize=70&animation=twinkling)
 
-![JeongSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSCHOISNOTE&show_icons=true&theme=radical)
+![JeongSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSCHOISNOTE&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSCHOISNOTE)](https://github.com/JSCHOISNOTE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSCHOISNOTE&layout=compact)](https://github.com/JSCHOISNOTE/github-readme-stats)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
