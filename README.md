@@ -1,17 +1,11 @@
+<a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=CHOI%20JEONG%20SEOK&fontSize=70&animation=twinkling)
 
 <img src="https://github-readme-stats.vercel.app/api?username=JSCHOISNOTE&show_icons=true&theme=dracula"/></p>
-<h3>🌈 Follow Me 🌈</h3>
-
-<a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSCHOISNOTE&layout=compact" /></p>
 
-
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -34,7 +28,6 @@
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=footer&text=THANK%20YOU&fontSize=70&animation=twinkling)
 
