@@ -34,6 +34,6 @@
 <a href="https://www.instagram.com/j.__.seok2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
   
 </p>
-
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=footer&text=THANK%20YOU&fontSize=70&animation=twinkling)
 
 
