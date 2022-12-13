@@ -29,6 +29,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=footer&text=THANK%20YOU&fontSize=70&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=footer&text=zjqjrwo@naver.com&fontSize=70&animation=twinkling)
 
 
